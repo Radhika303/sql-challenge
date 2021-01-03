@@ -1,3 +1,3 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
-![Image of SQL]
-(https://johnhopkins.bootcampcontent.com/john-hopkins-university/jhu-lau-data-pt-10-2020-u-c/raw/master/Homework/09-Intro-to-SQL/Instructions/sql.png)
+![](main/ERD%20of%20the%20tables.png)
+
